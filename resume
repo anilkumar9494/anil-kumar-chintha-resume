@@ -1,0 +1,92 @@
+                                  CHINTHA ANIL KUMAR
+DevOps Engineer 
+Email: anilkumarchintha9494@gmail.com                                       Phone No: +917893062256                                                                                                          
+
+Objective:
+
+    Design and Implement DevOps practices at a large scale using open source tools to achieve faster application deployment cycles and to achieve high up-time of applications using a stabilized and self-healing infrastructure
+    
+Profile Summary:
+
+●	Having 2+ years of relevant experience working in the DevOps area, working with various CI/CD implementations involving different phases from code compilation to deployment, Environment management, and maintenance.   
+●	Hands-on experience in Working on AWS cloud services IAM, VPC, EC2, S3, Elastic Block Storage, Elastic Load Balancer, and Elastic Bean Stack.
+●	Having Knowledge of AWS cloud services like lambda, CloudWatch, Route 53, and Simple Notification Service.
+●	Solid experience with Linux (Ubuntu and CentOs) operating systems.
+●	Hand-on experience on Infrastructure as a code (IAAC) Terraform.
+●	Worked on a CI/CD Jenkins for automating the entire application deployment life cycle process. 
+●	Good Knowledge of creating users and restricting permissions to the jobs and giving access to the respective jobs by customizing the permissions in Jenkins.
+●	Good Knowledge of storing artifacts in S3 buckets by enabling versioning and Enabling S3 Bucket Cross Region Replication 
+●	Good Knowledge of Docker like managing containers, and images, and establishing the communication between the containers.
+●	Good Knowledge of configuration management tool Ansible.
+●	Good Knowledge of core concepts in Ansible such as setup, Ad-hoc commands, Playbooks, and handlers.
+●	Good Knowledge of web server Apache2, IIS, and Databases like RDS.
+●	Good Knowledge in installing and configuring K8S master and K8S nodes and established communication between them.
+●	Well aware of the advantages, architecture, and complete workflow of Kubernetes.
+Education: 
+        Bachelor of Technology in computer science engineering from Vikas group of institutions in 2020.  
+
+
+
+Professional Experience:
+ Working as DevOps Engineer in Sree Medhas Software Technoloies Pvt Ltd in Hyderabad                                                                           (2020-Present)
+
+Technical Expertise:
+
+Client: MRADAR
+	MRADAR360 is a MP infotech corp NJ, United States. This is a Development, Enhancement, and Support Project that allows MRADAR providers to create better applications by integrating automation into their current systems. This helps them satisfy SLAs and effectively manage resources. In addition, standardized processes make sure that the deployment is smooth and features are released quickly.
+
+Technical skills: AWS cloud, Git, SonarQube, Maven, Jenkins, Ansible, Nexus, Tomcat, Docker, Kubenetes, Terraform.
+Roles & Responsibilities:
+
+●	Checking Alerts in Service now for any pending/ scheduled Tasks
+●	Deploying end product in tomcat web server and other application servers before production.
+●	Checking and automating if the Servers are running out of disk.
+●	Monitoring of all the Services running on the servers.
+●	Integrated many tools with Jenkins like Git, Maven, Nexus, Ansible, and Tomcat.
+●	Worked on Jenkins by installing, configuring, and maintaining continuous integration (CI) and End-to-End automation for all builds and deployments
+●	Configured many scheduled projects so that they can run frequently without the manual trigger.
+●	In case of any new project setup, creation of new jobs in Jenkins.
+●	Configuring pre and post-build actions in Jenkins as per project requirements
+●	Involved in deploying artifacts like JAR, and WAR, into application servers Apache Tomcat and Nexus.
+●	Used Ansible vault to secure information like passwords and secret key files.
+●	Making configuration changes on Servers using Ansible
+●	Writing Playbooks for automating the daily tasks
+●	Taking backups of Instances and taking backups of Production Databases and Providing them to Developers on Staging/ Testing Environments for testing of any issues
+●	Pulling the Artifacts from the Nexus and Deploying them to the Tomcat server through the Ansible Playbooks.
+●	Ensuring that post Deployments sanity of code is done and correct signoffs are given
+●	Providing assistance during Audits.
+●	Seeking the Approval from Business/QA/UAT and Security Signoffs
+●	Creating servers, AMIs, and storage blocks in S3 taking snapshots, VPCs, subnets, load balancing, and Auto-scaling in AWS. 
+
+●	Administering users, groups, and roles & setting up policies by using IAM and also Creation of VPCs, S3 buckets, and Ec2 Instances automating them through Terraform.
+●	Manage and configure AWS services as per the business needs (ELB, EC2, S3, IAM, and VPC).
+
+Strengths:
+
+●	Team Player
+●	Adaptability
+●	Flexible 
+●	Communication Skills
+
+Personal Details:
+
+Date of Birth 			            : - 05/04/1996
+Gender				            :  - Male
+Father Name      			:  - Sanakara rao
+Marital Status				:  - Single
+Language				:  Telugu, English.
+Address				:  Suravaram, Agripalli(mandalm), Krishna(dist),521109.
+
+Declaration:
+
+I hereby declare that the information furnished above is true up to my knowledge and I bear the responsibility for the correctness of the above mention particulars.
+
+
+
+
+
+
+
+
+
+Place:  Vijayawada             						       CH.ANIL KUMAR								
